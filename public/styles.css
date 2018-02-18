@@ -5,7 +5,9 @@
     background: none;
 }
 
-#message-form button {
+button {
+    margin: 10px;
+    margin-left: 0;
     border: 1px solid transparent;
     border-radius: 10px;
     padding: 10px;
